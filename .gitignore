@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# JSON BECAUSE MAYBE YOU WILL PUBLISH GOOGLE SHEET KEY TO PUBLIC :3 !
+*.json
+
 # C extensions
 *.so
 
