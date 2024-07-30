@@ -2,6 +2,7 @@
 # Twitch to Google Sheets Integration
 ![Google Sheet](https://cdn.discordapp.com/attachments/897680966707974144/1267815315111415902/48501baec5bef51b.png?ex=66aa2885&is=66a8d705&hm=53811dd1de65960f449dd1d760bf7a370be32404d646628e25023bb732b73924&)
   
+![My Twitch channel use this too ! :3](https://cdn.discordapp.com/attachments/897680966707974144/1267816725957836903/image.png?ex=66aa29d6&is=66a8d856&hm=4609496cca5befcf2ed9c8cb9e3bf38a3f1e9a636d0f487727c4f3b8a6b305b4&)
 
 ## Overview
 
